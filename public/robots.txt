@@ -1,0 +1,1 @@
+# Robots.txt for Intelligent Paradigm's web site# This tells all robots not to index the contacts pageUser-agent: *Disallow: /contacts.html
